@@ -20,4 +20,4 @@ app.use((err,req,res,next)=>{
     res.status(500).json({error:"Something went wrong!"});
 });
 
-app.listen(process.env.PORT,()=>console.log(`listening on port ${process.env.PORT}`))
+app.listen(process.env.PORT,()=>console.log(`listenin on port ${process.env.PORT}`))
