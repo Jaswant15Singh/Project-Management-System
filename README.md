@@ -368,7 +368,6 @@ This project management system demonstrates proficiency in:
 ```
 
 ---
-
 ## 🔌 API Endpoints
 
 ### Authentication
